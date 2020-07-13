@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 from nodal.nodes import BaseNode
-from twicorder.queries.request_queries import FollowerIDQuery
+from twicorder.queries.request.request_queries import FollowerIDQuery
 
 
 class FollowerIDNode(BaseNode):
